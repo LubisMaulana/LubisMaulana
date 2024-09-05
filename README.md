@@ -25,7 +25,7 @@ Saat ini saya sedang bekerja sebagai programmer. Saya alumni Telkom University, 
 ### <strong>Statistik</strong>:
 <details>
  <summary><strong>Apa yang sedang saya pelajari/kerjakan saat ini</strong></summary>
-    - 🔭 Saat ini saya sedang bekerja pada Full Stack Web Developer </br>
+    - 🔭 Saat ini saya sedang bekerja sebagai Full Stack Web Developer </br>
     - 🌱 Saat ini saya sedang tidak mempelajari apapun </br>
     - ⚡ Fakta menarik: saya suka bermain sudoku </br>
 </details>
