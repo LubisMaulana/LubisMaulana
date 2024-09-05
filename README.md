@@ -6,7 +6,7 @@ Saat ini saya sedang bekerja sebagai web developer.
 ### <strong>Kemampuan saat ini:</strong>
 <p>
     <img src="https://img.shields.io/badge/Photoshop-Novice-blue?&logo=adobephotoshop" />
-    <img src="https://img.shields.io/badge/Python-Novice-563d7c?&logo=python" />
+    <img src="https://img.shields.io/badge/Python-Novice-4584b6?&logo=python" />
     <img src="https://img.shields.io/badge/Bootstrap-Intermediate-563d7c?&logo=bootstrap" />
     <img src="https://img.shields.io/badge/JavaScript-Intermediate-f0db4f?&logo=javascript" />
     <img src="https://img.shields.io/badge/Go-Intermediate-29BEB0?&logo=go" />
