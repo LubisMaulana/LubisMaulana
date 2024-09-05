@@ -3,6 +3,14 @@ Saat ini saya sedang bekerja sebagai programmer. Saya alumni Telkom University, 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubismaulana&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
+### Tools yang digunakan:
+<p>
+    <img src="https://img.shields.io/badge/OS_Ke_1-Windows 10-blue?&logo=windows" />
+    <img src="https://img.shields.io/badge/OS_Ke_2-Ubuntu-blue?&logo=ubuntu" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code" />
+    <img src="https://gpvc.arturio.dev/bagusfe" />
+</p>
+
 ### <strong>Kemampuan saat ini:</strong>
 <p>
     <img src="https://img.shields.io/badge/Photoshop-Novice-blue?&logo=adobephotoshop" />
@@ -26,7 +34,8 @@ Saat ini saya sedang bekerja sebagai programmer. Saya alumni Telkom University, 
 <details>
  <summary><strong>Apa yang sedang saya pelajari/kerjakan saat ini</strong></summary>
     - 🔭 Saat ini saya sedang bekerja sebagai Full Stack Web Developer </br>
-    - 🌱 Saat ini saya sedang tidak mempelajari apapun </br>
+    - 🌱 Saat ini saya sedang mempelajari React </br>
+    - ❤ Saat ini saya menggunakan PHP (Laravel) & Go language </br>
     - ⚡ Fakta menarik: saya suka bermain sudoku </br>
 </details>
 
