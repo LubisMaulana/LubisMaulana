@@ -12,6 +12,8 @@ Saat ini saya sedang bekerja sebagai programmer. Saya alumni Telkom University, 
 
 ### <strong>Kemampuan saat ini:</strong>
 <p>
+    <img src="https://img.shields.io/badge/Express.JS-Novice-white?&logo=express" />
+    <img src="https://img.shields.io/badge/.Net-Novice-white?&logo=dotnet" />
     <img src="https://img.shields.io/badge/Photoshop-Novice-blue?&logo=adobephotoshop" />
     <img src="https://img.shields.io/badge/Python-Novice-4584b6?&logo=python" />
     <img src="https://img.shields.io/badge/Bootstrap-Intermediate-563d7c?&logo=bootstrap" />
@@ -23,8 +25,7 @@ Saat ini saya sedang bekerja sebagai programmer. Saya alumni Telkom University, 
 ### <strong>Rencana untuk dipelajari:</strong>
 <p>
     <p>
-    <img src="https://img.shields.io/badge/.Net-Rencana_Belajar-white?&logo=dotnet" />
-    <img src="https://img.shields.io/badge/Spring_Boot-Rencana_Belajar-green?&logo=springboot" />
+    <img src="https://img.shields.io/badge/Spring_Boot-Sedang_Belajar-green?&logo=springboot" />
     <img src="https://img.shields.io/badge/Flutter-Rencana_Belajar-lightblue?&logo=flutter" />
     <img src="https://img.shields.io/badge/React-Sedang_Belajar-61DBFB?&logo=react" />
 </p>
